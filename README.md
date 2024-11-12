@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me Please don't
 - 😄 Pronouns: What is this?
-- ⚡ Fun fact: I don't know what the F I'm doing
+- ⚡ Fact: I don't know what the F I'm doing
 
 <!---
 zloudny/zloudny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
